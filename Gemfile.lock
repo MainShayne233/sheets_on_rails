@@ -1,8 +1,8 @@
 GIT
-  remote: git@github.com:MainShayne233/sheet_builder.git
-  revision: 269993f5df7f216ed8187a921223f9eb15af4378
+  remote: git@github.com:MainShayne233/axlsx-builder.git
+  revision: 137b2212102c33932e9cd6e9073c53de7b99b4ef
   specs:
-    sheet_builder (1.0.2)
+    axlsx-builder (0.0.1)
       axlsx (~> 2.0.1.pre)
 
 GEM
@@ -159,6 +159,7 @@ PLATFORMS
 
 DEPENDENCIES
   axlsx
+  axlsx-builder!
   byebug
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
@@ -166,7 +167,6 @@ DEPENDENCIES
   rails (= 4.2.6)
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
-  sheet_builder!
   spring
   sqlite3
   turbolinks

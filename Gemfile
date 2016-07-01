@@ -7,7 +7,7 @@ gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.1.0'
 gem 'axlsx'
-gem 'sheet_builder', git: 'git@github.com:MainShayne233/sheet_builder.git'
+gem 'axlsx-builder', git: 'git@github.com:MainShayne233/axlsx-builder.git'
 
 gem 'jquery-rails'
 gem 'turbolinks'
